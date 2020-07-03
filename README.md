@@ -1,2 +1,2 @@
 # pandas-challenge
- Jamie Tan Pandas Challenge submission
+ Jamie Tan Pandas Challenge submission on Heroes of Pymoli
